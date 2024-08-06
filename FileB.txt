@@ -1,1 +1,2 @@
 This is file B for demo
+There is a change in FileB
